@@ -57,7 +57,7 @@ namespace TimeWarpMod
                     _["LONGITUDE"]              = "Lengtegraad: ";
                     _["SPEED_PAUZED"]           = "Gepauzeerd";
                     _["SPEED_NORMAL"]           = "Normaal";
-                    _["SPEED_DISABLED"]         = "Gehandicapte";
+                    _["SPEED_DISABLED"]         = "Snelheid Uitgeschakeld";
                     _["SPEED"]                  = "Snelheid: ";
                     _["NIGHT_DISABLED"]         = "Nachtcyclus uitgeschakeld in instellingen";
 
